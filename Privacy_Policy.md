@@ -7,7 +7,7 @@ Chez ServerWatch, nous respectons la confidentialité de nos utilisateurs et nou
 Nous collectons les types de données suivants dans le cadre de l'utilisation de ServerWatch :
 
 - **Informations du Serveur** : 
-  - Adresse IP et port des serveurs surveillés (ex : `149.18.63.225:30072`)
+  - Adresse IP et port des serveurs surveillés (ex : `8.8.8.8:25000`)
   - Identifiant `cfx` associé au serveur FiveM
   - Statut du serveur (en ligne ou hors ligne)
   - Nom du serveur
